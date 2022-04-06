@@ -7,6 +7,11 @@ See also: See also https://www2.gov.bc.ca/gov/content/data/statistics/people-pop
 ### Project Status
 
 
+## Reference materials
+
+[Reference materials page](reference_materials.md)
+
+---
 
 ### Getting Help or Reporting an Issue
 
